@@ -1,5 +1,7 @@
 # FLOAT.terminal // CORE_SYSTEM
 
+![](./screen_shot00002.png)
+![](./screen_shot00001.png)
 **FLOAT.terminal** is a TUI-inspired (Text User Interface), block-based atomic note editor designed to bridge the gap between unstructured human thought and structured system data. 
 
 It utilizes a retro-cyberpunk aesthetic (scanlines, neon palette, monospace typography) to create a focused, "void-like" environment for knowledge management. Unlike traditional document editors, FLOAT treats every paragraph as an addressable "block" that can be threaded recursively, queried via AI, or linked to a persistent knowledge graph.
