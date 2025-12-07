@@ -1,0 +1,5 @@
+{
+  "name": "FLOAT.terminal-void",
+  "description": "A TUI-inspired, block-based atomic note editor with recursive vertical threading and AST haunting capabilities. Designed for neurodivergent thought patterns and ritual-based knowledge management.",
+  "requestFramePermissions": []
+}
